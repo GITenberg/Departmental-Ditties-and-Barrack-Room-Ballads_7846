@@ -1,0 +1,29 @@
+_repo: Departmental-Ditties-and-Barrack-Room-Ballads_7846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 1. Departmental ditties -- Other verses -- 2. Ballads -- Barrack-room
+  ballads.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Departmental Ditties and Barrack Room Ballads
+url: http://www.gutenberg.org/ebooks/7846
